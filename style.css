@@ -1,0 +1,59 @@
+.item {
+  background-color: white;
+  list-style: none;
+  border: 1px;
+  border-radius: 5px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+.content {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.content {
+  width: 90%;
+  border: 1px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.inputGroup {
+  width: 400px;
+  display: inline-block;
+}
+.btnAdd {
+  background-color: yellow;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px;
+  width: 10%;
+  height: 26px;
+  float: right;
+}
+
+.btnDelete {
+  background-color: red;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px;
+  width: 10%;
+  height: 26px;
+  float: right;
+}
+
+.tasks {
+  width: 400px;
+  display: inline-block;
+}
+
+.taskname {
+  width: 90%;
+  display: inline-block;
+  background-color: white;
+  border: 1px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  margin-bottom: 5px;
+}
